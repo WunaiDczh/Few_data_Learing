@@ -1,0 +1,12 @@
+{
+    "N_way": 10,
+    "batch_size": 32,
+    "best": 100.0,
+    "evaluate_every": 600,
+    "loss_every": 20,
+    "n": 1200,
+    "n_iter": 15000,
+    "n_val": 2,
+    "save_path": "tmp/EXP-AB/size_6000/time_3/",
+    "save_weights_file": "weights-best-10-oneshot-low-data.hdf5"
+}
